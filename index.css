@@ -8,6 +8,7 @@ body{
     border-radius: 10px;
     width: 100px;
     text-align: center;
+    
 }
 .signup-btn:hover{
   color: rgb(255, 200, 0);
